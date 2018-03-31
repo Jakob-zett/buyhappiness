@@ -1,0 +1,180 @@
+
+* {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	margin:0;
+    padding:0;
+    text-align: center;
+
+}
+#logo { 
+	margin-top: 20px;
+	max-width: 200px;
+	max-height: 100px;
+
+}
+
+.headerpart {
+    padding: 30px 40px 30px 40px;
+	margin: 20px 150px;
+	text-rendering: optimizeLegibility;
+	line-height: 24px;
+	font-size: 16px;
+	color: black;
+	-webkit-box-shadow: 0 5px 16px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 5px 16px 0 rgba(0,0,0,0.1);
+    background-color: #fff;
+    position: relative;
+
+}
+
+.headline {
+	col3r: darkorange;
+	color: #003366;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: left;
+	
+}
+
+.headcontent {
+	text-align: left;
+}
+
+#larger {
+	font-size: 20px;
+}
+
+
+#demand {
+	col3r: darkorange;
+	border-top: solid #003366 1px;
+	padding-top: 10px;
+
+
+	
+}
+
+
+#arrow {
+	max-width: 80px;
+	max-height: 80px;
+	margin: 20px;
+}
+
+#results{
+	border-top: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 10px;
+	box-shadow: 0 0 10px #ddd; 
+    -webkit-box-shadow: 0 0 10px #ddd;
+}
+
+#results h2 {
+	text-align: left;
+	font-size: 13px;
+    line-height: 19px;
+    color: #111;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 28px;
+}
+
+.npcontainer {
+	position: relative;
+	overflow: hidden;
+	vertical-align: top;
+	display: block;
+	border-top: 1px solid #DDD;
+}
+
+.nplogocontainer {
+	float:left;
+	height: 210px;
+	width: 300px;
+	margin: 10px;
+	position: relative;
+
+}
+.nplogo{
+	max-height: 700px;
+	max-width: 300px;
+    max-height: 100%;  
+    max-width: 100%; 
+    width: auto;
+    height: auto;
+    position: absolute;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
+
+
+.npheader {
+	font-size: 18px;
+	text-align: left;
+	margin-top: 10px;
+	color: blue;
+}
+
+.npcontent {
+	font-size: 13px;
+	text-align: left;
+	color: grey;
+}
+
+.npbutton {
+	margin-top: 20px;
+	-webkit-border-radius: 6;
+	-moz-border-radius: 6;
+	border-radius: 6px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 14px;
+	background: #f5a00e;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	float: left;
+	color: black;
+}
+
+.npbutton:hover {
+	background:#e0ae19;
+	text-decoration: none;
+
+}
+
+
+#socialmedia {
+	padding: 30px 40px 30px 40px;
+	margin: 20px 150px;
+	text-rendering: optimizeLegibility;
+	line-height: 24px;
+	font-size: 16px;
+	color: black;
+	-webkit-box-shadow: 0 5px 16px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 5px 16px 0 rgba(0,0,0,0.1);
+    background-color: #fff;
+    position: relative;
+}
+
+#socmeddemand {
+	font-size: 26px;
+	text-align: left;
+	color: #003366;
+	text-align: left;
+	display: inline-block;
+}
+
+#twittericon {
+	margin-left: 4px;
+	max-width: 30px;
+	display: inline-block;
+	vertical-align: bottom;
+
+}
+
+
+
